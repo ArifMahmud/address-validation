@@ -23,7 +23,7 @@ Downloaded files will be stored in the local Maven repository (typically *user_h
 
 How to run test and check the test report
 -----------------------------------------
-1. After cloning the project, go to the directory "automation-task\api-automation"
+1. After cloning the project, go to the directory "address-validation"
 2. Build the automation project with gradle.
 3. After step 2, a report will be generated (A html file named 'index.html').
-4. Check the report in "api-automation\build\reports\tests\test"
+4. Check the report in "address-validation\build\reports\tests\test"
